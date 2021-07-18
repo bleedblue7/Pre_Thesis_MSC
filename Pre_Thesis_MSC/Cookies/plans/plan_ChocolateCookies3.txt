@@ -1,0 +1,9 @@
+0,*,INITIALIZE
+1,*,(preheat oven)
+2,*,(measure ingredients bowl)
+3,*,(mix fork)
+4,*,(mash fork)
+5,*,(add mixture sheet)
+6,*,(bake)
+7,*,(cool)
+8,*,FINISHED

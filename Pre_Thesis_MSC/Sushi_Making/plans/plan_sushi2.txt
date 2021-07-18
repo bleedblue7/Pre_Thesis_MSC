@@ -1,0 +1,12 @@
+0,*,INITIALIZE
+1,*,(place seaweed mat)
+2,*,(cover sheet rice)
+3,*,(smooth rice)
+4,*,(layer salmon rice)
+5,*,(layer cheese rice)
+6,*,(layer avocado rice)
+7,*,(roll tight)
+8,*,(slice)
+9,*,(add sauce)
+10,*,(serve)
+11,*,FINISHED
